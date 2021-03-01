@@ -97,9 +97,10 @@
                                     </constraints>
                                 </tableViewCellContentView>
                                 <connections>
+                                    <outlet property="profileImage" destination="gVQ-jW-kDt" id="mU9-yW-6qQ"/>
                                     <outlet property="profileImageView" destination="gVQ-jW-kDt" id="tue-0D-72p"/>
-                                    <outlet property="tweetContent" destination="8Hg-2u-Vpb" id="Hjd-NG-eHt"/>
-                                    <outlet property="userNameLabel" destination="0t0-dm-I0T" id="ANA-sJ-8oI"/>
+                                    <outlet property="tweetContent" destination="8Hg-2u-Vpb" id="2Mm-ig-3xG"/>
+                                    <outlet property="userNameLabel" destination="0t0-dm-I0T" id="9jS-2h-t0R"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
